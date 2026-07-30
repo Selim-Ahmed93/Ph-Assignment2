@@ -16,3 +16,4 @@ function isElevatorSafe(weights) {
   }
 };
 
+
