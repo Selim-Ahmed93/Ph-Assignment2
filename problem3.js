@@ -1,5 +1,4 @@
 // Problem 3 — AI Token Cost Calculator
-
 function calculateAiCost(tokensUsed) {
   if (typeof tokensUsed !== "number" || tokensUsed < 0) {
     return "Invalid"; //Input Type Check Number or Negative number and String

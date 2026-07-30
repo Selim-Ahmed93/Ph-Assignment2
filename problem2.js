@@ -1,5 +1,4 @@
 // Problem Statement 2 
-
 function isElevatorSafe(weights) {
   if (!Array.isArray(weights)) {
     return "Invalid"; // Input Type Check //
